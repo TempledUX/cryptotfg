@@ -8,4 +8,4 @@ Implementación de un protocolo de cifrado/descifrado de datos (ElGamal) sobre u
 Implementa el mismo protocolo de cifrado/descifrado anterior pero sobre una curva elíptica segura (secp256k1), el script genera así mismo una tabla de correspondencias Unicode para soportar el intercambio de información entre los datos y los puntos de la curva.
 
 ### cryptoGPS
-Describe de manera práctica el protocolo *cryptoGPS* sobre curvas elípticas que permite la autenticación de un satélite por parte de un usuario terrestre.
+Describe de manera práctica el protocolo *cryptoGPS* sobre curvas elípticas que permite la autenticación de un satélite GPS por parte de un usuario terrestre.
